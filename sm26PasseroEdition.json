@@ -1,28 +1,30 @@
 {
   "PlayerData": [
-    { "ID": 1, "ClubID": 1, "Forename": "Alberto", "Surname": "Leon Passarini", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 2, "ClubID": 1, "Forename": "Luca", "Surname": "Tosi", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 3, "ClubID": 1, "Forename": "Luca", "Surname": "Vicentini", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 4, "ClubID": 1, "Forename": "Giulio", "Surname": "Bertolazzi", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 5, "ClubID": 1, "Forename": "Daniele", "Surname": "Olivieri", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 6, "ClubID": 1, "Forename": "Elia", "Surname": "Pomini", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 7, "ClubID": 1, "Forename": "Alberto", "Surname": "Tobaldo", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 8, "ClubID": 1, "Forename": "Andrea", "Surname": "Saccoman", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 9, "ClubID": 1, "Forename": "Luca", "Surname": "Zovadelli", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 10, "ClubID": 1, "Forename": "Damiano", "Surname": "Carretta", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 11, "ClubID": 1, "Forename": "Nicola", "Surname": "Cappelli", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 12, "ClubID": 1, "Forename": "Hamza", "Surname": "Mayaat", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 13, "ClubID": 1, "Forename": "Gianni", "Surname": "Manfrin", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 14, "ClubID": 1, "Forename": "Saifeddine", "Surname": "Akkari", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 15, "ClubID": 1, "Forename": "Niccolò", "Surname": "Negri", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 16, "ClubID": 1, "Forename": "Montegol", "Surname": "Santos", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 18, "ClubID": 1, "Forename": "Salvatore", "Surname": "Gambadoro", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 19, "ClubID": 1, "Forename": "Matteo", "Surname": "Altafini", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" }
+    { "ID": 1, "ClubID": 1, "Forename": "Alberto", "Surname": "Leon Passarini", "Age": 19, "Overall": 75, "Potential": 88, "Position": "ST", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 2, "ClubID": 1, "Forename": "Luca", "Surname": "Tosi", "Age": 21, "Overall": 72, "Potential": 82, "Position": "CM", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 3, "ClubID": 1, "Forename": "Luca", "Surname": "Vicentini", "Age": 24, "Overall": 68, "Potential": 75, "Position": "CB", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 4, "ClubID": 1, "Forename": "Giulio", "Surname": "Bertolazzi", "Age": 18, "Overall": 65, "Potential": 85, "Position": "RW", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 5, "ClubID": 1, "Forename": "Daniele", "Surname": "Olivieri", "Age": 22, "Overall": 70, "Potential": 78, "Position": "LB", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 6, "ClubID": 1, "Forename": "Elia", "Surname": "Pomini", "Age": 20, "Overall": 74, "Potential": 81, "Position": "GK", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 7, "ClubID": 1, "Forename": "Alberto", "Surname": "Tobaldo", "Age": 23, "Overall": 71, "Potential": 76, "Position": "CDM", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 8, "ClubID": 1, "Forename": "Andrea", "Surname": "Saccoman", "Age": 25, "Overall": 77, "Potential": 79, "Position": "CAM", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 9, "ClubID": 1, "Forename": "Luca", "Surname": "Zovadelli", "Age": 19, "Overall": 69, "Potential": 84, "Position": "LW", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 10, "ClubID": 1, "Forename": "Damiano", "Surname": "Carretta", "Age": 21, "Overall": 73, "Potential": 80, "Position": "RB", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 11, "ClubID": 1, "Forename": "Nicola", "Surname": "Cappelli", "Age": 22, "Overall": 70, "Potential": 77, "Position": "ST", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 12, "ClubID": 1, "Forename": "Hamza", "Surname": "Mayaat", "Age": 20, "Overall": 72, "Potential": 83, "Position": "CM", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 13, "ClubID": 1, "Forename": "Gianni", "Surname": "Manfrin", "Age": 26, "Overall": 75, "Potential": 75, "Position": "CB", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 14, "ClubID": 1, "Forename": "Saifeddine", "Surname": "Akkari", "Age": 21, "Overall": 68, "Potential": 80, "Position": "RM", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 15, "ClubID": 1, "Forename": "Niccolò", "Surname": "Negri", "Age": 19, "Overall": 66, "Potential": 86, "Position": "LM", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 16, "ClubID": 1, "Forename": "Montegol", "Surname": "Santos", "Age": 24, "Overall": 79, "Potential": 82, "Position": "ST", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 17, "ClubID": 1, "Forename": "B.", "Surname": "Rossi", "Age": 20, "Overall": 60, "Potential": 70, "Position": "CM", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 18, "ClubID": 1, "Forename": "Salvatore", "Surname": "Gambadoro", "Age": 22, "Overall": 71, "Potential": 79, "Position": "CB", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 19, "ClubID": 1, "Forename": "Matteo", "Surname": "Altafini", "Age": 23, "Overall": 74, "Potential": 81, "Position": "ST", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" }
   ],
   "ClubData": [
     {
       "ID": 1,
-      "Name": "3Asa FC",
+      "LeagueID": 28,
+      "Name": "3Asa FC.",
       "ShortName": "ASA",
       "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png"
     }
@@ -32,8 +34,5 @@
   ],
   "LeagueData": [
     { "ID": 28, "Name": "Serie A Enilive", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" }
-  ],
-  "CupData": [
-    { "ID": 2, "Name": "Coppa Italia", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" }
   ]
 }
