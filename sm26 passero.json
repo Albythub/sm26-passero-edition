@@ -2,16 +2,16 @@
   "PlayerData": [
     {
       "ID": 1,
-      "Forename": "Lionel",
-      "Surname": "Messi",
+      "Forename": "Test",
+      "Surname": "Player",
       "ImageURL": "https://via.placeholder.com/150"
     }
   ],
   "ClubData": [
     {
       "ID": 1,
-      "Name": "Inter Miami",
-      "ShortName": "MIA",
+      "Name": "Test Club",
+      "ShortName": "TST",
       "ImageURL": "https://via.placeholder.com/150"
     }
   ],
