@@ -1,28 +1,28 @@
 {
 	"PlayerData": [
-		{ "ID": 1, "ClubID": 1, "Forename": "Alberto Leon", "Surname": "Passarini", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-		{ "ID": 2, "ClubID": 1, "Forename": "Luca", "Surname": "Tosi", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-		{ "ID": 3, "ClubID": 1, "Forename": "Luca", "Surname": "Vicentini", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-		{ "ID": 4, "ClubID": 1, "Forename": "Giulio", "Surname": "Bertolazzi", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-		{ "ID": 5, "ClubID": 1, "Forename": "Daniele", "Surname": "Olivieri", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-		{ "ID": 6, "ClubID": 1, "Forename": "Elia", "Surname": "Pomini", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-		{ "ID": 7, "ClubID": 1, "Forename": "Alberto", "Surname": "Tobaldo", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-		{ "ID": 8, "ClubID": 1, "Forename": "Andrea", "Surname": "Saccoman", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-		{ "ID": 9, "ClubID": 1, "Forename": "Luca", "Surname": "Zovadelli", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-		{ "ID": 10, "ClubID": 1, "Forename": "Damiano", "Surname": "Carretta", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-		{ "ID": 11, "ClubID": 1, "Forename": "Nicola", "Surname": "Cappelli", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-		{ "ID": 12, "ClubID": 1, "Forename": "Hamza", "Surname": "Mayaat", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-		{ "ID": 13, "ClubID": 1, "Forename": "Gianni", "Surname": "Manfrin", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-		{ "ID": 14, "ClubID": 1, "Forename": "Saifeddine", "Surname": "Akkari", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-		{ "ID": 15, "ClubID": 1, "Forename": "Niccolò", "Surname": "Negri", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-		{ "ID": 16, "ClubID": 1, "Forename": "Montegol", "Surname": "Santos", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-		{ "ID": 17, "ClubID": 1, "Forename": "Benito", "Surname": "Mussolini", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-		{ "ID": 18, "ClubID": 1, "Forename": "Salvatore", "Surname": "Gambadoro", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-		{ "ID": 19, "ClubID": 1, "Forename": "Matteo", "Surname": "Altafini", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" }
+		{ "ID": 5001, "ClubID": 500, "Forename": "Alberto Leon", "Surname": "Passarini", "Nationality": "IT", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+		{ "ID": 5002, "ClubID": 500, "Forename": "Luca", "Surname": "Tosi", "Nationality": "IT", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+		{ "ID": 5003, "ClubID": 500, "Forename": "Luca", "Surname": "Vicentini", "Nationality": "IT", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+		{ "ID": 5004, "ClubID": 500, "Forename": "Giulio", "Surname": "Bertolazzi", "Nationality": "IT", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+		{ "ID": 5005, "ClubID": 500, "Forename": "Daniele", "Surname": "Olivieri", "Nationality": "IT", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+		{ "ID": 5006, "ClubID": 500, "Forename": "Elia", "Surname": "Pomini", "Nationality": "IT", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+		{ "ID": 5007, "ClubID": 500, "Forename": "Alberto", "Surname": "Tobaldo", "Nationality": "IT", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+		{ "ID": 5008, "ClubID": 500, "Forename": "Andrea", "Surname": "Saccoman", "Nationality": "IT", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+		{ "ID": 5009, "ClubID": 500, "Forename": "Luca", "Surname": "Zovadelli", "Nationality": "IT", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+		{ "ID": 5010, "ClubID": 500, "Forename": "Damiano", "Surname": "Carretta", "Nationality": "IT", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+		{ "ID": 5011, "ClubID": 500, "Forename": "Nicola", "Surname": "Cappelli", "Nationality": "IT", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+		{ "ID": 5012, "ClubID": 500, "Forename": "Hamza", "Surname": "Mayaat", "Nationality": "MA", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+		{ "ID": 5013, "ClubID": 500, "Forename": "Gianni", "Surname": "Manfrin", "Nationality": "IT", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+		{ "ID": 5014, "ClubID": 500, "Forename": "Saifeddine", "Surname": "Akkari", "Nationality": "TN", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+		{ "ID": 5015, "ClubID": 500, "Forename": "Niccolò", "Surname": "Negri", "Nationality": "IT", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+		{ "ID": 5016, "ClubID": 500, "Forename": "Montegol", "Surname": "Santos", "Nationality": "BR", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+		{ "ID": 5017, "ClubID": 500, "Forename": "Benito", "Surname": "Mussolini", "Nationality": "IT", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+		{ "ID": 5018, "ClubID": 500, "Forename": "Salvatore", "Surname": "Gambadoro", "Nationality": "IT", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+		{ "ID": 5019, "ClubID": 500, "Forename": "Matteo", "Surname": "Altafini", "Nationality": "IT", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" }
 	],
 	"ClubData": [
 		{
-			"ID": 1,
+			"ID": 500,
 			"Name": "3Asa FC.",
 			"ShortName": "ASA",
 			"ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png"
@@ -44,7 +44,7 @@
 	],
 	"StadiumData": [
 		{
-			"ID": 1,
+			"ID": 500,
 			"Name": "Stadio della Ponta"
 		}
 	]
