@@ -4,19 +4,7 @@
       "ID": 1,
       "Forename": "Lionel",
       "Surname": "Messi",
-      "ImageURL": "https://example.com/messi.png"
-    },
-    {
-      "ID": 2,
-      "Forename": "Cristiano",
-      "Surname": "Ronaldo",
-      "ImageURL": "https://example.com/ronaldo.png"
-    },
-    {
-      "ID": 3,
-      "Forename": "Kylian",
-      "Surname": "Mbappe",
-      "ImageURL": "https://example.com/mbappe.png"
+      "ImageURL": "https://via.placeholder.com/150"
     }
   ],
   "ClubData": [
@@ -24,39 +12,27 @@
       "ID": 1,
       "Name": "Inter Miami",
       "ShortName": "MIA",
-      "ImageURL": "https://example.com/intermiami.png"
-    },
-    {
-      "ID": 2,
-      "Name": "Al Nassr",
-      "ShortName": "NAS",
-      "ImageURL": "https://example.com/alnassr.png"
-    },
-    {
-      "ID": 3,
-      "Name": "Real Madrid",
-      "ShortName": "RMA",
-      "ImageURL": "https://example.com/realmadrid.png"
+      "ImageURL": "https://via.placeholder.com/150"
     }
   ],
   "LeagueData": [
     {
       "ID": 1,
-      "Name": "Custom League",
-      "ImageURL": "https://example.com/league.png"
+      "Name": "Test League",
+      "ImageURL": "https://via.placeholder.com/150"
     }
   ],
   "CupData": [
     {
       "ID": 1,
-      "Name": "Custom Cup",
-      "ImageURL": "https://example.com/cup.png"
+      "Name": "Test Cup",
+      "ImageURL": "https://via.placeholder.com/150"
     }
   ],
   "StadiumData": [
     {
       "ID": 1,
-      "Name": "Generic Stadium"
+      "Name": "Test Stadium"
     }
   ]
 }
