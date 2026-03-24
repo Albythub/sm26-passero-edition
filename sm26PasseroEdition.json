@@ -1,77 +1,39 @@
 {
   "PlayerData": [
-    { "ID": 1, "Forename": "Alberto", "Surname": "Leon Passarini", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 2, "Forename": "Luca", "Surname": "Tosi", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 3, "Forename": "Luca", "Surname": "Vicentini", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 4, "Forename": "Giulio", "Surname": "Bertolazzi", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 5, "Forename": "Daniele", "Surname": "Olivieri", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 6, "Forename": "Elia", "Surname": "Pomini", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 7, "Forename": "Alberto", "Surname": "Tobaldo", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 8, "Forename": "Andrea", "Surname": "Saccoman", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 9, "Forename": "Luca", "Surname": "Zovadelli", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 10, "Forename": "Damiano", "Surname": "Carretta", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 11, "Forename": "Nicola", "Surname": "Cappelli", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 12, "Forename": "Hamza", "Surname": "Mayaat", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 13, "Forename": "Gianni", "Surname": "Manfrin", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 14, "Forename": "Saifeddine", "Surname": "Akkari", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 15, "Forename": "Niccolò", "Surname": "Negri", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 16, "Forename": "Montegol", "Surname": "Santos", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 17, "Forename": "Benito", "Surname": "Mussolini", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 18, "Forename": "Salvatore", "Surname": "Gambadoro", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 19, "Forename": "Matteo", "Surname": "Altafini", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 20, "Forename": "Giocatore", "Surname": "20", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 21, "Forename": "Giocatore", "Surname": "21", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 22, "Forename": "Giocatore", "Surname": "22", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 23, "Forename": "Giocatore", "Surname": "23", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 24, "Forename": "Giocatore", "Surname": "24", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 25, "Forename": "Giocatore", "Surname": "25", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 26, "Forename": "Giocatore", "Surname": "26", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 27, "Forename": "Giocatore", "Surname": "27", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 28, "Forename": "Giocatore", "Surname": "28", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 29, "Forename": "Giocatore", "Surname": "29", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 30, "Forename": "Giocatore", "Surname": "30", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 31, "Forename": "Giocatore", "Surname": "31", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 32, "Forename": "Giocatore", "Surname": "32", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 33, "Forename": "Giocatore", "Surname": "33", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 34, "Forename": "Giocatore", "Surname": "34", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 35, "Forename": "Giocatore", "Surname": "35", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 36, "Forename": "Giocatore", "Surname": "36", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 37, "Forename": "Giocatore", "Surname": "37", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 38, "Forename": "Giocatore", "Surname": "38", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 39, "Forename": "Giocatore", "Surname": "39", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 40, "Forename": "Giocatore", "Surname": "40", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 41, "Forename": "Giocatore", "Surname": "41", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 42, "Forename": "Giocatore", "Surname": "42", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 43, "Forename": "Giocatore", "Surname": "43", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 44, "Forename": "Giocatore", "Surname": "44", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
-    { "ID": 45, "Forename": "Giocatore", "Surname": "45", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" }
+    { "ID": 1, "ClubID": 1, "Forename": "Alberto", "Surname": "Leon Passarini", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 2, "ClubID": 1, "Forename": "Luca", "Surname": "Tosi", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 3, "ClubID": 1, "Forename": "Luca", "Surname": "Vicentini", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 4, "ClubID": 1, "Forename": "Giulio", "Surname": "Bertolazzi", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 5, "ClubID": 1, "Forename": "Daniele", "Surname": "Olivieri", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 6, "ClubID": 1, "Forename": "Elia", "Surname": "Pomini", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 7, "ClubID": 1, "Forename": "Alberto", "Surname": "Tobaldo", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 8, "ClubID": 1, "Forename": "Andrea", "Surname": "Saccoman", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 9, "ClubID": 1, "Forename": "Luca", "Surname": "Zovadelli", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 10, "ClubID": 1, "Forename": "Damiano", "Surname": "Carretta", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 11, "ClubID": 1, "Forename": "Nicola", "Surname": "Cappelli", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 12, "ClubID": 1, "Forename": "Hamza", "Surname": "Mayaat", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 13, "ClubID": 1, "Forename": "Gianni", "Surname": "Manfrin", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 14, "ClubID": 1, "Forename": "Saifeddine", "Surname": "Akkari", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 15, "ClubID": 1, "Forename": "Niccolò", "Surname": "Negri", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 16, "ClubID": 1, "Forename": "Montegol", "Surname": "Santos", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 18, "ClubID": 1, "Forename": "Salvatore", "Surname": "Gambadoro", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" },
+    { "ID": 19, "ClubID": 1, "Forename": "Matteo", "Surname": "Altafini", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" }
   ],
   "ClubData": [
     {
       "ID": 1,
-      "Name": "3Asa FC.",
+      "Name": "3Asa FC",
       "ShortName": "ASA",
       "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png"
     }
   ],
   "StadiumData": [
-    {
-      "ID": 1,
-      "Name": "Stadio della Ponta"
-    }
+    { "ID": 1, "Name": "Stadio della Ponta" }
   ],
   "LeagueData": [
-    {
-      "ID": 28,
-      "Name": "Serie A Enilive",
-      "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png"
-    }
+    { "ID": 28, "Name": "Serie A Enilive", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" }
   ],
   "CupData": [
-    {
-      "ID": 2,
-      "Name": "Coppa Italia",
-      "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png"
-    }
+    { "ID": 2, "Name": "Coppa Italia", "ImageURL": "https://i.ibb.co/tR7MnxC/Chat-GPT-Image-24-mar-2026-15-27-47.png" }
   ]
 }
